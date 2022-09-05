@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\LessonGB7\Z47\bin\Debug\net6.0\Z47.exe
+C:\Users\user\Desktop\LessonGB7\Z47\bin\Debug\net6.0\Z47.deps.json
+C:\Users\user\Desktop\LessonGB7\Z47\bin\Debug\net6.0\Z47.runtimeconfig.json
+C:\Users\user\Desktop\LessonGB7\Z47\bin\Debug\net6.0\Z47.dll
+C:\Users\user\Desktop\LessonGB7\Z47\bin\Debug\net6.0\Z47.pdb
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.AssemblyInfo.cs
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.dll
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\refint\Z47.dll
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.pdb
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\Z47.genruntimeconfig.cache
+C:\Users\user\Desktop\LessonGB7\Z47\obj\Debug\net6.0\ref\Z47.dll
